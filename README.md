@@ -5,18 +5,31 @@ This project uses the **MERN stack (simplified)** with a Node.js backend and a R
 
 ## 📂 Project Structure
 codearena-simple/
+
 │── server/ # Backend (Node + Express)
+
 │ └── index.js
+
 │── client/ # Frontend (React + Vite)
+
 │ ├── index.html
+
 │ ├── src/
+
 │ │ ├── App.jsx
+
 │ │ ├── pages/
+
 │ │ │ ├── Home.jsx
+
 │ │ │ ├── Arena.jsx
+
 │ │ │ └── Career.jsx
+
 │ │ └── components/Editor.jsx
+
 │── package.json
+
 │── README.md
 
 
