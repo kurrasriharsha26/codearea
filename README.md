@@ -1,6 +1,6 @@
-# 🚀 CodeArena Simple
+# 🚀 CodeArena 
 
-CodeArena Simple is a lightweight demo version of **CodeArena**, an AI-first platform for coding, collaboration, and career growth.  
+CodeArena is a lightweight demo version of **CodeArena**, an AI-first platform for coding, collaboration, and career growth.  
 This project uses the **MERN stack (simplified)** with a Node.js backend and a React (Vite) frontend.
 
 ## 📂 Project Structure
